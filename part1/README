@@ -1,0 +1,12 @@
+Added a background of yellow paper-like image
+Added a layer of light white to make articles more readable
+Set fonts to serif and size of 16pt
+Set all h1-4 to center and double the size
+Set block quote to center
+Set pre section to italic and 90% size
+Set link to bold 16pt serif with blue-ish color
+Set mouse hover on link to italic and purple-ish color
+Set paragraph to 2em
+Set table of contents with an indent with 2em and no margin with top or bottom
+Set my note with white color and padding of 0.5em, margin to left and right to
+10% and font to sans-serif and 95% of size
